@@ -61,17 +61,21 @@ Understanding customer behavior is crucial for businesses in the travel industry
    !cd travel-package-purchase-prediction
 
 2. Install the required dependencies:
+   ```bash
    !pip install -r requirements.txt
 
 **Usage**
 1. Preprocess the data:
+   ```bash
    !python preprocess.py
 
-2. Train the model:
-   Python train_model.py
+3. Train the model:
+   ```bash
+   !python train_model.py
 
-3. Make Predictions:
-  !python predict.py
+5. Make Predictions:
+   ```bash
+   !python predict.py
 
 **Data**
 The dataset used for this project is available in the data directory. It includes features such as customer demographics, past travel history, and other relevant information.

@@ -57,7 +57,7 @@ Understanding customer behavior is crucial for businesses in the travel industry
 
 1. Clone the repository:
    ```bash
-   !git clone https://github.com/your-username/travel-package-prediction.git
+   !git clone https://github.com/ThatikondaKinshuk/Travel_Package_Purchase_Prediction.git
    !cd travel-package-purchase-prediction
 
 2. Install the required dependencies:
